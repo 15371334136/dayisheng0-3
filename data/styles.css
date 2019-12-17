@@ -75,6 +75,9 @@
 .checkbox {
   text-align:left;
 }
+.radio_button {
+  text-align:left;
+}
 .table_cell {
 }
 ._连接线 {
@@ -98,4 +101,6 @@
 .connector {
 }
 .flow_shape {
+}
+.icon1 {
 }
