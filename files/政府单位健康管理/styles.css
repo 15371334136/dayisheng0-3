@@ -18,7 +18,7 @@
   left:0px;
   top:0px;
   width:1020px;
-  height:2092px;
+  height:1792px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   box-sizing:border-box;
@@ -36,7 +36,7 @@
   left:0px;
   top:12px;
   width:1020px;
-  height:2092px;
+  height:1792px;
 }
 #u162_text {
   border-width:0px;
@@ -150,8 +150,8 @@
 #u166 {
   border-width:0px;
   position:absolute;
-  left:15px;
-  top:1849px;
+  left:5px;
+  top:1523px;
   width:992px;
   height:230px;
 }
@@ -184,8 +184,8 @@
 #u167 {
   border-width:0px;
   position:absolute;
-  left:41px;
-  top:1919px;
+  left:31px;
+  top:1593px;
   width:73px;
   height:21px;
   font-size:18px;
@@ -210,8 +210,8 @@
 #u168 {
   border-width:0px;
   position:absolute;
-  left:19px;
-  top:1900px;
+  left:9px;
+  top:1574px;
   width:983px;
   height:1px;
 }
@@ -243,8 +243,8 @@
 #u169 {
   border-width:0px;
   position:absolute;
-  left:41px;
-  top:1956px;
+  left:31px;
+  top:1630px;
   width:57px;
   height:17px;
   color:#FFFFFF;
@@ -276,8 +276,8 @@
 #u170 {
   border-width:0px;
   position:absolute;
-  left:41px;
-  top:1987px;
+  left:31px;
+  top:1661px;
   width:57px;
   height:17px;
   color:#FFFFFF;
@@ -309,8 +309,8 @@
 #u171 {
   border-width:0px;
   position:absolute;
-  left:41px;
-  top:2017px;
+  left:31px;
+  top:1691px;
   width:57px;
   height:17px;
   color:#FFFFFF;
@@ -342,8 +342,8 @@
 #u172 {
   border-width:0px;
   position:absolute;
-  left:41px;
-  top:2048px;
+  left:31px;
+  top:1722px;
   width:57px;
   height:17px;
   color:#FFFFFF;
@@ -376,8 +376,8 @@
 #u173 {
   border-width:0px;
   position:absolute;
-  left:197px;
-  top:1919px;
+  left:187px;
+  top:1593px;
   width:73px;
   height:21px;
   font-size:18px;
@@ -410,8 +410,8 @@
 #u174 {
   border-width:0px;
   position:absolute;
-  left:197px;
-  top:1956px;
+  left:187px;
+  top:1630px;
   width:57px;
   height:17px;
   color:#FFFFFF;
@@ -435,8 +435,8 @@
 #u175 {
   border-width:0px;
   position:absolute;
-  left:646px;
-  top:1936px;
+  left:636px;
+  top:1610px;
   width:79px;
   height:80px;
 }
@@ -468,8 +468,8 @@
 #u176 {
   border-width:0px;
   position:absolute;
-  left:644px;
-  top:2034px;
+  left:634px;
+  top:1708px;
   width:85px;
   height:17px;
   color:#FFFFFF;
@@ -493,8 +493,8 @@
 #u177 {
   border-width:0px;
   position:absolute;
-  left:787px;
-  top:1936px;
+  left:777px;
+  top:1610px;
   width:80px;
   height:80px;
 }
@@ -526,8 +526,8 @@
 #u178 {
   border-width:0px;
   position:absolute;
-  left:782px;
-  top:2034px;
+  left:772px;
+  top:1708px;
   width:85px;
   height:17px;
   color:#FFFFFF;
@@ -551,8 +551,8 @@
 #u179 {
   border-width:0px;
   position:absolute;
-  left:25px;
-  top:1854px;
+  left:15px;
+  top:1528px;
   width:47px;
   height:42px;
   font-size:11px;
@@ -576,8 +576,8 @@
 #u180 {
   border-width:0px;
   position:absolute;
-  left:596px;
-  top:1860px;
+  left:586px;
+  top:1534px;
   width:30px;
   height:30px;
 }
@@ -609,8 +609,8 @@
 #u181 {
   border-width:0px;
   position:absolute;
-  left:637px;
-  top:1867px;
+  left:627px;
+  top:1541px;
   width:86px;
   height:17px;
   color:#FFFFFF;
@@ -634,8 +634,8 @@
 #u182 {
   border-width:0px;
   position:absolute;
-  left:777px;
-  top:1860px;
+  left:767px;
+  top:1534px;
   width:30px;
   height:30px;
 }
@@ -667,8 +667,8 @@
 #u183 {
   border-width:0px;
   position:absolute;
-  left:818px;
-  top:1867px;
+  left:808px;
+  top:1541px;
   width:173px;
   height:17px;
   color:#FFFFFF;
@@ -733,8 +733,8 @@
 #u185 {
   border-width:0px;
   position:absolute;
-  left:197px;
-  top:1987px;
+  left:187px;
+  top:1661px;
   width:49px;
   height:17px;
   color:#FFFFFF;
@@ -1207,7 +1207,7 @@
   width:992px;
   height:62px;
   background:inherit;
-  background-color:rgba(102, 102, 102, 1);
+  background-color:rgba(0, 123, 162, 0.819607843137255);
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;
@@ -1504,6 +1504,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-size:18px;
+  color:rgba(0, 123, 162, 0.819607843137255);
 }
 #u209 {
   border-width:0px;
@@ -1513,6 +1514,7 @@
   width:145px;
   height:21px;
   font-size:18px;
+  color:rgba(0, 123, 162, 0.819607843137255);
 }
 #u209_text {
   border-width:0px;
