@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1244px;
+  width:1290px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -15,8 +15,8 @@
 #u0 {
   border-width:0px;
   position:absolute;
-  left:54px;
-  top:84px;
+  left:100px;
+  top:87px;
   width:1190px;
   height:1050px;
 }
@@ -2338,8 +2338,8 @@
 #u91 {
   border-width:0px;
   position:absolute;
-  left:54px;
-  top:47px;
+  left:100px;
+  top:50px;
   width:1190px;
   height:37px;
   color:#FFFFFF;
@@ -2352,4 +2352,14 @@
   top:10px;
   width:1186px;
   word-wrap:break-word;
+}
+#u92 {
+  border-width:0px;
+  position:absolute;
+  left:549px;
+  top:1239px;
+  width:100px;
+  height:100px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
 }
